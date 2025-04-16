@@ -192,3 +192,4 @@ build/
 
 tmp/
 task-*
+/terraform/.terraform.lock.hcl
