@@ -30,6 +30,6 @@ jobs:
           platforms: linux/amd64,linux/arm64
           context: smart-home-monolith
           push: true
-          tags: ghcr.io/yandex-practicum/architecture-sprint-3:latest
+          tags: ghcr.io/AleksandrPDeveloper/architecture-sprint-3:latest
           cache-from: type=gha
           cache-to: type=gha,mode=max
