@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: ghcr.io/AleksandrPDeveloper/architecture-sprint-3
+  repository: ghcr.io/aleksandrpdeveloper/architecture-sprint-3
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
   tag: latest
